@@ -8,6 +8,7 @@ Na opção Idioma e Região configuramos o idioma de apresentação e o formato 
 Na opção Aparência escolha os comportamentos de menu e a opção de temas desejados.
 
 2. Acesso aos serviços disponibilizados no portal é feito clicando na opção Todos os serviços, no menu lateral esquerdo.
+Opções como: Computação, Contêineres, DevOps, Híbrido + multinuvem e IA + Machine Learning estão disponiveis.
 
 
 
@@ -43,7 +44,14 @@ Essas opções garantem uma experiência personalizada e adequada ao contexto de
 ## 🗂️ Acesso aos Serviços
 Para visualizar todos os serviços disponíveis no portal:
 - Clique na opção **Todos os serviços**, localizada no menu lateral esquerdo.
-- A partir daí, é possível explorar os recursos organizados por categoria e acessar rapidamente os serviços desejados.
+- A partir daí, é possível explorar os recursos organizados por categoria.
+
+### 📑 Exemplos de Categorias Disponíveis
+- **Computação**: Máquinas virtuais, funções e serviços de processamento.  
+- **Contêineres**: Kubernetes, instâncias de contêiner e gerenciamento de clusters.  
+- **DevOps**: Ferramentas de integração contínua e entrega contínua.  
+- **Híbrido + Multinuvem**: Soluções para integração entre ambientes locais e múltiplas nuvens.  
+- **IA + Machine Learning**: Serviços de inteligência artificial, aprendizado de máquina e análise preditiva.  
 
 ---
 
