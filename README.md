@@ -3,10 +3,12 @@ Crie, em formato README.md, um overview do portal azure com base no texto abaixo
 # Resumo do Lab: Primeiro Overview do Microsoft Azure
 Resumo do laboratório Microsoft Azure - Localizando Serviços por Categoria
 
-Acesso as configurações da com é feito clicando no ícone em formato de engrenagem, localizado no topo da tela a direita.
+1. Acesso as configurações da com é feito clicando no ícone em formato de engrenagem, localizado no topo da tela a direita.
 Na opção Idioma e Região configuramos o idioma de apresentação e o formato da região. 
-
 Na opção Aparência escolha os comportamentos de menu e a opção de temas desejados.
+
+2. Acesso aos serviços disponibilizados no portal é feito clicando na opção Todos os serviços, no menu lateral esquerdo.
+
 
 
 # 📘 Overview do Portal Microsoft Azure
@@ -38,10 +40,18 @@ Essas opções garantem uma experiência personalizada e adequada ao contexto de
 
 ---
 
+## 🗂️ Acesso aos Serviços
+Para visualizar todos os serviços disponíveis no portal:
+- Clique na opção **Todos os serviços**, localizada no menu lateral esquerdo.
+- A partir daí, é possível explorar os recursos organizados por categoria e acessar rapidamente os serviços desejados.
+
+---
+
 ## 📌 Conclusão
 Este primeiro overview do **Microsoft Azure** demonstra como:
 - Navegar pelos serviços organizados por categoria.
 - Configurar idioma e região para uma experiência mais fluida.
 - Ajustar aparência e temas para maior conforto visual.
+- Acessar todos os serviços disponíveis de forma centralizada.
 
 O portal Azure é projetado para ser **intuitivo**, **flexível** e **adaptável** às necessidades globais dos usuários.
