@@ -1,22 +1,3 @@
-Crie, em formato README.md, um overview do portal azure com base no texto abaixo.
-
-# Resumo do Lab: Primeiro Overview do Microsoft Azure
-Resumo do laboratório Microsoft Azure - Localizando Serviços por Categoria
-
-1. Acesso as configurações da com é feito clicando no ícone em formato de engrenagem, localizado no topo da tela a direita.
-Na opção Idioma e Região configuramos o idioma de apresentação e o formato da região. 
-Na opção Aparência escolha os comportamentos de menu e a opção de temas desejados.
-
-2. Acesso aos serviços disponibilizados no portal é feito clicando na opção Todos os serviços, no menu lateral esquerdo.
-Opções como: Computação, Contêineres, DevOps, Híbrido + multinuvem e IA + Machine Learning estão disponiveis.
-
-2.1  Faça um overview sobre a opção Computação e descreva as categorias: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Sem servidor e microsserviços e Computação de alto desempenho.
-
-2.2 Faça um overview sobre a opção Redes e descreva as categorias.
-
-2.3 Faça um overview sobre a opção Armazenamento e descreva as categorias.
-
-
 # 📘 Overview do Portal Microsoft Azure
 
 Este documento apresenta um resumo inicial do laboratório **Microsoft Azure - Localizando Serviços por Categoria**, destacando as principais funcionalidades e configurações disponíveis no portal.
