@@ -6,6 +6,8 @@ Resumo do laboratório Microsoft Azure - Localizando Serviços por Categoria
 Acesso as configurações da com é feito clicando no ícone em formato de engrenagem, localizado no topo da tela a direita.
 Na opção Idioma e Região configuramos o idioma de apresentação e o formato da região. 
 
+Na opção Aparência escolha os comportamentos de menu e a opção de temas desejados.
+
 
 # 📘 Overview do Portal Microsoft Azure
 
@@ -27,6 +29,11 @@ Na seção **Idioma e Região**, é possível:
 - Definir o idioma de apresentação da interface.
 - Ajustar o formato da região (datas, números e moeda) conforme a preferência do usuário.
 
+### 🎨 Aparência
+Na seção **Aparência**, é possível:
+- Escolher o comportamento dos menus.
+- Selecionar o tema desejado (claro, escuro ou personalizado).
+
 Essas opções garantem uma experiência personalizada e adequada ao contexto de cada organização ou indivíduo.
 
 ---
@@ -35,5 +42,6 @@ Essas opções garantem uma experiência personalizada e adequada ao contexto de
 Este primeiro overview do **Microsoft Azure** demonstra como:
 - Navegar pelos serviços organizados por categoria.
 - Configurar idioma e região para uma experiência mais fluida.
+- Ajustar aparência e temas para maior conforto visual.
 
 O portal Azure é projetado para ser **intuitivo**, **flexível** e **adaptável** às necessidades globais dos usuários.
