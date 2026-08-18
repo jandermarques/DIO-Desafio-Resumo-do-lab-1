@@ -10,7 +10,7 @@ Na opção Aparência escolha os comportamentos de menu e a opção de temas des
 2. Acesso aos serviços disponibilizados no portal é feito clicando na opção Todos os serviços, no menu lateral esquerdo.
 Opções como: Computação, Contêineres, DevOps, Híbrido + multinuvem e IA + Machine Learning estão disponiveis.
 
-2.1 A opção Computação categoriza os serviços como: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Sem servidor e microsserviços e Computação de alto desempenho.
+2.1  Faça um overview sobre a opção Computação e descreva as categorias: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Sem servidor e microsserviços e Computação de alto desempenho.
 
 2.2 Faça um overview sobre a opção Redes e descreva as categorias.
 
@@ -51,11 +51,11 @@ Para visualizar todos os serviços disponíveis no portal:
 - A partir daí, é possível explorar os recursos organizados por categoria.
 
 ### 📑 Exemplos de Categorias Disponíveis
-- **Computação**: Máquinas virtuais, funções e serviços de processamento.  
-- **Contêineres**: Kubernetes, instâncias de contêiner e gerenciamento de clusters.  
-- **DevOps**: Ferramentas de integração contínua e entrega contínua.  
-- **Híbrido + Multinuvem**: Soluções para integração entre ambientes locais e múltiplas nuvens.  
-- **IA + Machine Learning**: Serviços de inteligência artificial, aprendizado de máquina e análise preditiva.  
+- **Computação**  
+- **Contêineres**  
+- **DevOps**  
+- **Híbrido + Multinuvem**  
+- **IA + Machine Learning**  
 
 ---
 
@@ -63,10 +63,12 @@ Para visualizar todos os serviços disponíveis no portal:
 
 ### 2.1 Computação
 A opção **Computação** categoriza os serviços como:
-- **Infrastructure as a Service (IaaS)**: Máquinas virtuais e infraestrutura sob demanda.  
-- **Platform as a Service (PaaS)**: Serviços gerenciados para desenvolvimento e hospedagem de aplicações.  
-- **Sem Servidor e Microsserviços**: Execução de funções e aplicações sem necessidade de gerenciar servidores.  
-- **Computação de Alto Desempenho (HPC)**: Recursos otimizados para cargas de trabalho intensivas.  
+- **Infrastructure as a Service (IaaS)**: Máquinas virtuais e infraestrutura sob demanda, permitindo controle total sobre sistemas operacionais e aplicações.  
+- **Platform as a Service (PaaS)**: Serviços gerenciados para desenvolvimento e hospedagem de aplicações sem necessidade de gerenciar infraestrutura.  
+- **Sem Servidor e Microsserviços**: Execução de funções e aplicações sem necessidade de provisionar servidores, com escalabilidade automática.  
+- **Computação de Alto Desempenho (HPC)**: Recursos otimizados para cargas de trabalho intensivas, como simulações científicas e análises complexas.  
+
+---
 
 ### 2.2 Redes
 A opção **Redes** oferece serviços que permitem criar, gerenciar e proteger a conectividade entre recursos do Azure e ambientes externos.  
@@ -74,7 +76,7 @@ As principais categorias incluem:
 
 - **Rede Virtual (VNet)**: Criação de redes privadas no Azure para conectar recursos de forma segura.  
 - **Balanceadores de Carga**: Distribuição de tráfego entre múltiplos recursos para garantir alta disponibilidade.  
-- **Gateways de Aplicação**: Gerenciamento de tráfego web com recursos como firewall e roteamento inteligente.  
+- **Gateway de Aplicação**: Gerenciamento de tráfego web com recursos como firewall e roteamento inteligente.  
 - **VPN Gateway**: Conexão segura entre redes locais e o Azure via VPN.  
 - **ExpressRoute**: Conexões privadas de alta velocidade entre data centers locais e o Azure.  
 - **Firewall do Azure**: Proteção avançada contra ameaças com regras de segurança centralizadas.  
@@ -85,10 +87,10 @@ As principais categorias incluem:
 
 ## 📌 Conclusão
 Este primeiro overview do **Microsoft Azure** demonstra como:
-- Navegar pelos serviços organizados por categoria.
-- Configurar idioma e região para uma experiência mais fluida.
-- Ajustar aparência e temas para maior conforto visual.
-- Acessar todos os serviços disponíveis de forma centralizada.
-- Explorar em detalhes categorias como **Computação** e **Redes**, fundamentais para arquiteturas modernas em nuvem.
+- Navegar pelos serviços organizados por categoria.  
+- Configurar idioma e região para uma experiência mais fluida.  
+- Ajustar aparência e temas para maior conforto visual.  
+- Acessar todos os serviços disponíveis de forma centralizada.  
+- Explorar em detalhes categorias como **Computação** e **Redes**, fundamentais para arquiteturas modernas em nuvem.  
 
 O portal Azure é projetado para ser **intuitivo**, **flexível** e **adaptável** às necessidades globais dos usuários.
