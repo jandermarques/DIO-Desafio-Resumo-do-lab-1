@@ -14,6 +14,7 @@ Opções como: Computação, Contêineres, DevOps, Híbrido + multinuvem e IA + 
 
 2.2 Faça um overview sobre a opção Redes e descreva as categorias.
 
+2.3 Faça um overview sobre a opção Armazenamento e descreva as categorias.
 
 
 # 📘 Overview do Portal Microsoft Azure
@@ -85,12 +86,25 @@ As principais categorias incluem:
 
 ---
 
+### 2.3 Armazenamento
+A opção **Armazenamento** disponibiliza serviços para guardar, gerenciar e proteger dados em diferentes formatos e escalas.  
+As principais categorias incluem:
+
+- **Blob Storage**: Armazenamento de objetos não estruturados, como imagens, vídeos e documentos.  
+- **File Storage**: Compartilhamento de arquivos via SMB, ideal para migração de aplicações que dependem de sistemas de arquivos tradicionais.  
+- **Queue Storage**: Gerenciamento de mensagens entre componentes distribuídos de aplicações.  
+- **Table Storage**: Armazenamento NoSQL para dados estruturados, com alta escalabilidade e baixo custo.  
+- **Disk Storage**: Discos gerenciados para máquinas virtuais, com opções de desempenho otimizadas.  
+- **Data Lake Storage**: Repositório para grandes volumes de dados, voltado para análises avançadas e Big Data.  
+
+---
+
 ## 📌 Conclusão
 Este primeiro overview do **Microsoft Azure** demonstra como:
 - Navegar pelos serviços organizados por categoria.  
 - Configurar idioma e região para uma experiência mais fluida.  
 - Ajustar aparência e temas para maior conforto visual.  
 - Acessar todos os serviços disponíveis de forma centralizada.  
-- Explorar em detalhes categorias como **Computação** e **Redes**, fundamentais para arquiteturas modernas em nuvem.  
+- Explorar em detalhes categorias como **Computação**, **Redes** e **Armazenamento**, fundamentais para arquiteturas modernas em nuvem.  
 
 O portal Azure é projetado para ser **intuitivo**, **flexível** e **adaptável** às necessidades globais dos usuários.
